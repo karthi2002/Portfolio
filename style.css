@@ -21,6 +21,7 @@ body{
     top: 0;
     left: 0;
 }
+
 .nav-item>a{
     color: #000;
 }
@@ -134,11 +135,11 @@ div>p{
 .downloadcv:hover{
     color: #32dbc6;
 }
-#typing-text {
+/* #typing-text {
     overflow: hidden;
     white-space: nowrap;
     animation: typingAnimation 1ms steps(25, end) infinite;
-}
+} */
 img{
     border: none;
     /* box-shadow: rgba(0, 0, 255, 0.4) 0px 30px 90px; */
